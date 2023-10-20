@@ -1,0 +1,3 @@
+time=now
+color=red
+mood=normal
