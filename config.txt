@@ -1,3 +1,3 @@
-time=tommorow
+time=now
 color=blue
 mood=mad
